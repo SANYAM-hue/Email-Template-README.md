@@ -13,4 +13,4 @@ Tools Used:
 
 
 Figma Link:
-(https://www.figma.com/design/ABUAyEpM5zSleYI5OD91P1/TASK-2?node-id=0-1&m=dev&t=t24aLTgqbI5os4Yc-1)
+(https://www.figma.com/design/ABUAyEpM5zSleYI5OD91P1/TASK-2?node-id=0-1&t=t24aLTgqbI5os4Yc-1)
